@@ -1,0 +1,9 @@
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\bin\Debug\PACMAN.exe.config
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\bin\Debug\PACMAN.exe
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\bin\Debug\PACMAN.pdb
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.Form1.resources
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.exe
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.pdb
+C:\Users\LAPTOP\Desktop\PACMAN\PACMAN\obj\Debug\PACMAN.csprojResolveAssemblyReference.cache
